@@ -28,8 +28,8 @@ bool GameStateManager::init()
 
 void GameStateManager::onEnter()
 {
-	auto scene = GameLayer::createScene();
-	Director::getInstance()->pushScene(scene);
+	//auto scene = GameLayer::createScene();
+	//Director::getInstance()->pushScene(scene);
 }
 
 void GameStateManager::update(float delta)
