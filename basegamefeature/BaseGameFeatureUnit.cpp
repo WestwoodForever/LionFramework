@@ -10,7 +10,7 @@
 
 USING_NS_CC;
 
-namespace BaseGameFeature
+namespace Lion
 {
 
 BaseGameFeatureUnit::BaseGameFeatureUnit()

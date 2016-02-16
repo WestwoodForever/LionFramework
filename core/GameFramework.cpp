@@ -10,7 +10,7 @@
 
 USING_NS_CC;
 
-namespace Core
+namespace Lion
 {
 
 GameFramework* GameFramework::_sharedInstance = nullptr;
@@ -65,10 +65,10 @@ void GameFramework::end()
 void GameFramework::SetupFeatures()
 {
 	Framework::SetupFeatures();
-	addFeature(BaseGameFeature::BaseGameFeatureUnit::create());
-	addFeature(GraphicsFeature::GraphicsFeatureUnit::create());
-	addFeature(InputFeature::InputFeatureUnit::create());
-	addFeature(AIFeature::AIFeatureUnit::create());
+	addFeature(BaseGameFeatureUnit::create());
+	addFeature(GraphicsFeatureUnit::create());
+	addFeature(InputFeatureUnit::create());
+	addFeature(AIFeatureUnit::create());
 }
 
 }

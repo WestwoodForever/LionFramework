@@ -6,7 +6,7 @@
 
 #include "aifeature/transitions/Transition.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 class State : public cocos2d::Ref

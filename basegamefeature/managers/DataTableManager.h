@@ -5,10 +5,10 @@
 #include "core/Manager.h"
 #include "core/Singleton.h"
 
-namespace BaseGameFeature
+namespace Lion
 {
 
-class DataTableManager : public Core::Manager
+class DataTableManager : public Manager
 {
 	DECLARE_SINGLETON(DataTableManager);
 public:

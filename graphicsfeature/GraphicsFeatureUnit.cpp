@@ -6,7 +6,7 @@
 
 USING_NS_CC;
 
-namespace GraphicsFeature
+namespace Lion
 {
 
 GraphicsFeatureUnit::GraphicsFeatureUnit()

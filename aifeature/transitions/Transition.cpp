@@ -1,6 +1,6 @@
 #include "aifeature/transitions/Transition.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 Transition::Transition()

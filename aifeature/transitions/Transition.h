@@ -4,7 +4,7 @@
 //#include "base/CCVector.h"
 #include <string>
 
-namespace AIFeature
+namespace Lion
 {
 
 class Transition : public cocos2d::Ref

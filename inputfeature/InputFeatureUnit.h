@@ -2,10 +2,10 @@
 
 #include "core\FeatureUnit.h"
 
-namespace InputFeature
+namespace Lion
 {
 
-class InputFeatureUnit : public Core::FeatureUnit
+class InputFeatureUnit : public FeatureUnit
 {
 public:
 	CREATE_FUNC(InputFeatureUnit);

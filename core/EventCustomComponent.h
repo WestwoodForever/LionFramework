@@ -3,7 +3,7 @@
 #include "2d\CCComponent.h"
 #include "editor-support\cocostudio\CCComBase.h"
 
-namespace Core
+namespace Lion
 {
 
 class EventCustomComponent : public cocos2d::Component

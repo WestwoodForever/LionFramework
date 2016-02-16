@@ -11,7 +11,7 @@
 
 USING_NS_CC;
 
-namespace AIFeature
+namespace Lion
 {
 
 BattleIdleState::BattleIdleState()

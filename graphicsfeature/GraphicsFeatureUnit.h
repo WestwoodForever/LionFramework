@@ -2,10 +2,10 @@
 
 #include "core\FeatureUnit.h"
 
-namespace GraphicsFeature
+namespace Lion
 {
 
-class GraphicsFeatureUnit : public Core::FeatureUnit
+class GraphicsFeatureUnit : public FeatureUnit
 {
 public:
 	CREATE_FUNC(GraphicsFeatureUnit);

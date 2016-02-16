@@ -2,7 +2,7 @@
 
 #include "aifeature/states/State.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 class BattleRunState : public State

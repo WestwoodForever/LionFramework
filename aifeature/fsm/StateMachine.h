@@ -3,7 +3,7 @@
 #include "2d\CCNode.h"
 #include "base\CCMap.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 class State;

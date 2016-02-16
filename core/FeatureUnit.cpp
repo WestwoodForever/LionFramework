@@ -2,7 +2,7 @@
 
 #include "core\Manager.h"
 
-namespace Core
+namespace Lion
 {
 
 FeatureUnit::FeatureUnit()

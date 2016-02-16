@@ -2,7 +2,7 @@
 
 #include "base/CCRef.h"
 
-namespace Core
+namespace Lion
 {
 
 class Manager : public cocos2d::Ref

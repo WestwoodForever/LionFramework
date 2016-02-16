@@ -2,7 +2,7 @@
 
 #include "base\CCVector.h"
 
-namespace Core
+namespace Lion
 {
 
 class FeatureUnit;

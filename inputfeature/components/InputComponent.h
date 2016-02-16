@@ -5,10 +5,10 @@
 //class cocos2d::Event;
 //class cocos2d::EventCustom;
 
-namespace InputFeature
+namespace Lion
 {
 
-class InputComponent : public Core::EventCustomComponent
+class InputComponent : public EventCustomComponent
 {
 	DECLARE_CLASS_COMPONENT_INFO
 	CREATE_FUNC(InputComponent);

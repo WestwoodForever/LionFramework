@@ -2,7 +2,7 @@
 
 USING_NS_CC;
 
-namespace BaseGameFeature
+namespace Lion
 {
 
 IMPLEMENT_CLASS_COMPONENT_INFO(AttributeComponent)

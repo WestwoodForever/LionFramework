@@ -2,10 +2,10 @@
 
 #include "core\FeatureUnit.h"
 
-namespace AIFeature
+namespace Lion
 {
 
-class AIFeatureUnit : public Core::FeatureUnit
+class AIFeatureUnit : public FeatureUnit
 {
 public:
 	CREATE_FUNC(AIFeatureUnit);

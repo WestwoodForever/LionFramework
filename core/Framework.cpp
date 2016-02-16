@@ -2,7 +2,7 @@
 
 #include "core\FeatureUnit.h"
 
-namespace Core
+namespace Lion
 {
 
 Framework::Framework()

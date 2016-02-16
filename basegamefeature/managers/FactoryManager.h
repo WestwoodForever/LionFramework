@@ -6,10 +6,10 @@
 #include "core/singleton.h"
 #include "basegamefeature/BluePrints.h"
 
-namespace BaseGameFeature
+namespace Lion
 {
 
-class FactoryManager : public Core::Manager
+class FactoryManager : public Manager
 {
 	DECLARE_SINGLETON(FactoryManager);
 public:

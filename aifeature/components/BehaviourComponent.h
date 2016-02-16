@@ -5,7 +5,7 @@
 
 #include "base\CCRefPtr.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 class StateMachine;

@@ -2,7 +2,7 @@
 
 #include "aifeature/transitions/Transition.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 class BattleIdleToBattleRunTransition : public Transition

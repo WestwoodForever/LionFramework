@@ -1,6 +1,6 @@
 #include "aifeature/transitions/BattleIdleToBattleRunTransition.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 BattleIdleToBattleRunTransition::BattleIdleToBattleRunTransition()

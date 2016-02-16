@@ -1,6 +1,6 @@
 #include "aifeature/states/BattleRunState.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 BattleRunState::BattleRunState()

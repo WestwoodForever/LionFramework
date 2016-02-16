@@ -4,7 +4,7 @@
 #include "base/CCValue.h"
 #include "editor-support\cocostudio\CCComBase.h"
 
-namespace BaseGameFeature
+namespace Lion
 {
 
 class AttributeComponent : public cocos2d::Component

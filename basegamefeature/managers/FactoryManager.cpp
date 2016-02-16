@@ -6,7 +6,7 @@
 
 USING_NS_CC;
 
-namespace BaseGameFeature
+namespace Lion
 {
 
 IMPLEMENT_SINGLETON(FactoryManager);

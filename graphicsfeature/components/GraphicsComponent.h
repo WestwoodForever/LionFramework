@@ -7,10 +7,10 @@ namespace Attr
 	const std::string Graphics = "Graphics";
 }
 
-namespace GraphicsFeature
+namespace Lion
 {
 	
-class GraphicsComponent : public Core::EventCustomComponent
+class GraphicsComponent : public EventCustomComponent
 {
 	DECLARE_CLASS_COMPONENT_INFO
 	CREATE_FUNC(GraphicsComponent);

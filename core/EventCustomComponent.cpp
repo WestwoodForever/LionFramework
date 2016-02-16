@@ -1,6 +1,6 @@
 #include "core\EventCustomComponent.h"
 
-namespace Core
+namespace Lion
 {
 
 EventCustomComponent::EventCustomComponent()

@@ -5,7 +5,7 @@
 #include "aifeature/states/BattleIdleState.h"
 #include "aifeature/states/BattleRunState.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 IMPLEMENT_CLASS_COMPONENT_INFO(BehaviourComponent)

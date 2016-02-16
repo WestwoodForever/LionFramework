@@ -2,10 +2,10 @@
 
 #include "core/Manager.h"
 
-namespace BaseGameFeature
+namespace Lion
 {
 
-class GameStateManager : public Core::Manager
+class GameStateManager : public Manager
 {
 public:
 	CREATE_FUNC(GameStateManager);

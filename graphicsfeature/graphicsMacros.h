@@ -2,7 +2,7 @@
 
 #include <string>
 
-namespace GraphicsFeature
+namespace Lion
 {
 	extern std::string Graphics = "Graphics";
 

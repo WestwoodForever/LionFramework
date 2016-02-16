@@ -1,6 +1,6 @@
 #include "DataTableManager.h"
 
-namespace BaseGameFeature
+namespace Lion
 {
 
 IMPLEMENT_SINGLETON(DataTableManager);

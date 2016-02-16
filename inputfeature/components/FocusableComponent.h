@@ -6,10 +6,10 @@
 //class cocos2d::Event;
 //class cocos2d::EventCustom;
 
-namespace InputFeature
+namespace Lion
 {
 
-class FocusableComponent : public Core::EventCustomComponent
+class FocusableComponent : public EventCustomComponent
 {
 	DECLARE_CLASS_COMPONENT_INFO
 	CREATE_FUNC(FocusableComponent);

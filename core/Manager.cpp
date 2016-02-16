@@ -1,6 +1,6 @@
 #include "core/Manager.h"
 
-namespace Core
+namespace Lion
 {
 
 Manager::Manager()

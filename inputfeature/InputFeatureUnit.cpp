@@ -7,7 +7,7 @@
 
 USING_NS_CC;
 
-namespace InputFeature
+namespace Lion
 {
 
 InputFeatureUnit::InputFeatureUnit()

@@ -2,7 +2,7 @@
 
 #include "aifeature/states/state.h"
 
-namespace AIFeature
+namespace Lion
 {
 
 StateMachine::StateMachine():

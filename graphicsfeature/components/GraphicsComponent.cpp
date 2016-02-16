@@ -13,7 +13,7 @@
 
 USING_NS_CC;
 
-namespace GraphicsFeature
+namespace Lion
 {
 
 IMPLEMENT_CLASS_COMPONENT_INFO(GraphicsComponent)
@@ -38,7 +38,7 @@ void GraphicsComponent::setupAttributes()
 {
 	auto component = getOwner()->getComponent("AttributeComponent");
 	CCASSERT(component != nullptr, "attr component not found.");
-	BaseGameFeature::AttributeComponent* attributeComponent = (BaseGameFeature::AttributeComponent*)component;
+	AttributeComponent* attributeComponent = (AttributeComponent*)component;
 	attributeComponent->setString(Attr::Graphics, "Sprite/leon_battleidle.plist");
 }
 
@@ -55,7 +55,7 @@ void GraphicsComponent::onEnter()
 	auto component = getOwner()->getComponent("AttributeComponent");
 	if (component != nullptr)
 	{
-		BaseGameFeature::AttributeComponent* attributeComponent = (BaseGameFeature::AttributeComponent*)component;
+		AttributeComponent* attributeComponent = (AttributeComponent*)component;
 		auto graphicsString = attributeComponent->getString(Attr::Graphics);
 
 		//TODO 게임 오브젝트 관련된 그래픽 데이터 읽어오도록

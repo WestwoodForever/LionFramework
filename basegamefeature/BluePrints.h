@@ -4,7 +4,7 @@
 #include "platform\CCSAXParser.h"
 #include "base\CCVector.h"
 
-namespace BaseGameFeature
+namespace Lion
 {
 
 const std::string BLUEPRINT_FILENAME = "Data/blueprints.xml";

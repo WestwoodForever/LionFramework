@@ -2,7 +2,7 @@
 
 #include "core\Framework.h"
 
-namespace Core
+namespace Lion
 {
 
 class GameFramework : public Framework

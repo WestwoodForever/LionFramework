@@ -9,7 +9,7 @@
 
 USING_NS_CC;
 
-namespace InputFeature
+namespace Lion
 {
 
 IMPLEMENT_CLASS_COMPONENT_INFO(FocusableComponent)
